@@ -1,13 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func main(){
-	a := uint8
-	b := uint16
-	c := uint32
-	d := uint64
-	e := int8
-	f :=int16
-
+func main() {
+	v := 123_456
+	fmt.Println(v)
 }
