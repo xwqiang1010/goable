@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	this is a test about data type
+	//this is a test about data type
 		var aa uint8
 		v := 0b00101101
 		aa = 33
